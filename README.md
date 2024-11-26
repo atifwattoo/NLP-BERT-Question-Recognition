@@ -1,4 +1,6 @@
 
+[Also Read this full blog on Global News One](https://bit.ly/4191gHh)
+
 ### Step 1: **Import Libraries**
 
 ```python
